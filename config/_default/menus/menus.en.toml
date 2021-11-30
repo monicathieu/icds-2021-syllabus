@@ -16,10 +16,10 @@
   identifier = "schedule"
   url = "/docs/schedule/"
 
-[[main]]
-  name = "Blog"
-  url = "/blog/"
-  weight = 20
+# [[main]]
+#   name = "Blog"
+#   url = "/blog/"
+#   weight = 20
 
 [[social]]
   name = "GitHub"
