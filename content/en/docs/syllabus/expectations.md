@@ -1,0 +1,35 @@
+---
+title: "Expectations"
+output: blogdown::html_page
+menu:
+  docs:
+    parent: "syllabus"
+weight: 130
+toc: true
+---
+
+
+
+## Participation
+
+This course will be quite hands-on (hands on keyboard specifically!). I know from experience how much faster people become comfortable with programming when they can practice with “training wheels” during class before they complete exercises on their own. As such, most “lecture” during class will be code-along, so that you can follow along with me on your own computer while I demonstrate concepts for the first time. 
+
+Participation may involve, but is not limited to:
+
+- Coding along with me
+- Answering poll questions to check your understanding and brainstorm new ideas
+- Group work to peer-review code and solve exercises
+
+You are much more likely to succeed in independently applying concepts and skills on problem sets and your final project if you take advantage of participation opportunities during class. While participation will not be formally graded, because I don’t want you to feel like you must participate for the sake of participating, I hope you will participate for your own benefit, and for the benefit of your peers!
+
+## Communication with teaching team
+
+I'm looking forward to getting to know you this semester! We each hold weekly office hours, so please make an effort to attend. You don’t need to have a specific question! We’re happy to talk about course-related material, but we can also talk about lab research, course planning, careers, etc. If you have the option of either emailing or signing up for office hours, please do everything you can to visit office hours. You’ll get an immediate answer to your question, and we’ll have the chance to get to know each other.
+
+### Emails
+
+When you email, please help me not to miss your email by writing the subject line as "COURSE NUMBER: [topic of email]." I will try my best to respond to emails within 48 hours. Please note that **I will not be able to respond to emails between 7pm-9am, or anytime on Sundays.**
+
+### Office hours
+
+Please book an appointment to my office hours using this appointment page. You can book appointments day-of. If it's on the calendar, I'm available!
