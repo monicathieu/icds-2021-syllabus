@@ -1,10 +1,10 @@
 # Meta Data for SEO
 
 ## Homepage
-title = "Doks"
+title = "Intro to Programming for Behavioral Scientists"
 titleSeparator = "-"
-titleAddition = "Modern Documentation Theme"
-description = "Doks is a Hugo theme for building secure, fast, and SEO-ready documentation websites, which you can easily update and customize."
+titleAddition = "Prototype syllabus"
+description = "This is a prototype syllabus and course information website for my ICDS 2021 syllabus."
 
 ## Documentation
 # docsVersion = "0.3"
@@ -16,8 +16,8 @@ domainTLD = "doks.netlify.app"
 titleHome = "Doks Theme"
 
 ## Twitter Cards
-twitterSite = "@getdoks"
-twitterCreator = "@henkverlinde"
+twitterSite = "@ColumbiaCTL"
+twitterCreator = "@monica_too_"
 
 ## JSON-LD
 # schemaType = "Person"
@@ -57,7 +57,7 @@ smallLimit = "300"
 footer = "Powered by <a href=\"https://www.netlify.com/\">Netlify</a>, <a href=\"https://gohugo.io/\">Hugo</a>, and <a href=\"https://getdoks.org/\">Doks</a>"
 
 # Feed
-copyRight = "Copyright (c) 2020-2021 Henk Verlinde"
+copyRight = "Copyright (c) 2021 Monica Thieu"
 
 # Alert
 alert = false

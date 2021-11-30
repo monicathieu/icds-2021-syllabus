@@ -1,20 +1,20 @@
-[[docs]]
-  name = "Prologue"
-  weight = 10
-  identifier = "prologue"
-  url = "/docs/prologue/"
-
-[[docs]]
-  name = "Help"
-  weight = 60
-  identifier = "help"
-  url = "/docs/help/"
-
 [[main]]
-  name = "Docs"
-  url = "/docs/prologue/introduction/"
-# url = "/docs/1.0/prologue/introduction/"
+  name = "Syllabus"
+  identifier = "docs"
+  url = "/docs/"
   weight = 10
+
+[[docs]]
+  name = "Syllabus"
+  weight = 60
+  identifier = "syllabus"
+  url = "/docs/syllabus/"
+
+[[docs]]
+  name = "Schedule"
+  weight = 61
+  identifier = "schedule"
+  url = "/docs/schedule/"
 
 [[main]]
   name = "Blog"
