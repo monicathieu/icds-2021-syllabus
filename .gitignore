@@ -5,5 +5,6 @@ resources
 .netlify
 TODO
 .Rproj.user
+.Rhistory
 # PLS
 *.DS_Store
