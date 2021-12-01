@@ -65,6 +65,6 @@ Due: Problem set 12
 ## Week 14
 
 ```{r}
-blogdown::shortcode_html("alert", text = "Final exam due this week!")
+blogdown::shortcode_html(.name = "alert", .content = "Final exam due this week!")
 ```
 

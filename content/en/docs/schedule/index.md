@@ -60,4 +60,6 @@ Due: Problem set 12
 
 ## Week 14
 
-{{< alert text="Final exam due this week!" >}}
+{{< alert >}}
+Final exam due this week!
+{{< /alert >}}
