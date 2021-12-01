@@ -36,12 +36,12 @@ Tokens may be claimed on Canvas _anytime before the original deadline_ of the as
 
 ## Overall grade
 
-Final course grades will be given as letter grades. Your overall letter grade (A, B, C, D, F) will be determined by the total number of assignments marked "complete" that you have accrued over the course of the semester. Each complete problem set will count for one point. The midterm exam will count for up to three points and the final exam will count for up to four points, with more points assigned for higher rubric scores. Twenty points are possible across all assignments (13 problem sets, one three-point midterm exam, and one four-point final exam). Letter grade breakdowns will be as follows:
+Final course grades will be given as letter grades. Your overall letter grade (A, B, C, D, F) will be determined by the total number of assignments marked "complete" that you have accrued over the course of the semester. Each complete problem set will count for one point. The midterm exam will count for up to three points and the final exam will count for up to four points, with more points assigned for higher rubric scores. Eighteen points are possible across all assignments (eleven problem sets, one three-point midterm exam, and one four-point final exam). Letter grade breakdowns will be as follows:
 
-- A: 19-20 pt
-- B: 16-18 pt
-- C: 13-15 pt
-- D: 10-12 pt
-- F: 0-9 pt
+- A: 17-18 pt
+- B: 14-16 pt
+- C: 11-13 pt
+- D: 9-10 pt
+- F: 0-8 pt
 
-Pluses and minuses will be determined by the percentage of complete weekly problem sets marked "complete" after the first submission. Plus letters will be assigned when two-thirds or more of complete problem sets are marked "complete" after the first submission. Minus letters will be assigned when two-thirds or more of complete problem sets are marked "complete" after revision. For example, a student submitting a successful revision for every assignment, and earning full marks on both exams, would earn an A- with 20 pts.
+Pluses and minuses will be determined by the percentage of complete weekly problem sets marked "complete" after the first submission. Plus letters will be assigned when two-thirds or more of complete problem sets are marked "complete" after the first submission. Minus letters will be assigned when two-thirds or more of complete problem sets are marked "complete" after revision. For example, a student submitting a successful revision for every assignment, and earning full marks on both exams, would earn an A- with 18 points.
