@@ -14,7 +14,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## Course description
 
-This course aims to train psychology majors to conduct behavioral science using programming tools, from building a functioning computer-based psychological task to analyzing and presenting data. Academic psychologists increasingly use such tools to support their research, and expect trainees to begin programs with prerequisite programming experience. Industry data scientists frequently work with human behavioral data, and training in behavioral science is key to rigorous, ethical applied science. This course thus aims to _highlight the importance of the relationship between programming skills and "pure" science_ for psychology undergraduates, and _inspire excitement about the uses and joys of programming for psychologists._
+This course aims to train psychology majors to clean, analyze, and present behavioral science data using programming tools. Academic psychologists increasingly use such tools to support their research, and expect trainees to begin programs with prerequisite programming experience. Industry data scientists frequently work with human behavioral data, and training in behavioral science is key to rigorous, ethical applied science. This course thus aims to _highlight the importance of the relationship between programming skills and "pure" science_ for psychology undergraduates, and _inspire excitement about the uses and joys of programming for psychologists._
 
 ## Learning objectives
 

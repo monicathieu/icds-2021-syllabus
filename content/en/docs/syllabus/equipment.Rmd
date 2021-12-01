@@ -18,13 +18,15 @@ We will be using [RStudio Cloud](https://rstudio.cloud/learn/guide), a web app, 
 
 ## Compatible machines
 
+If you have any concerns about whether your particular device will be sufficient for you to complete your coursework, please contact me with your device details so I can help you out.
+
 ### Laptops
 
 Mac, Windows, Linux, and Chromebook laptops less than 7 years old will be the easiest machines to use for this class.
 
 ### Tablets
 
-Most tablets less than 4 years old that can run the desktop version of websites should be able to run RStudio Cloud. You will need an external keyboard in order to type code on your tablet. Sometimes, tablets will have issues that laptops/desktops would not have, like problems with typing quotation marks, scrolling through code, or copying and pasting chunks of code. For this reason, if you have the option of using a laptop or a tablet, we recommend using a laptop, but a tablet/keyboard should be sufficient to complete all coursework.
+Most tablets less than 4 years old that can run the desktop version of websites should be able to run RStudio Cloud. You will need an external keyboard in order to type code on your tablet. Sometimes, tablets will have issues that laptops/desktops would not have, like problems with typing quotation marks, scrolling through code, or copying and pasting chunks of code. For this reason, if you have the option of using a laptop or a tablet, we recommend using a laptop, but a tablet & keyboard should be sufficient to complete all coursework.
 
 ### University computers
 
@@ -40,9 +42,9 @@ If you live on or near campus, you can use one of the library's computers to com
 
 ## Respectful computer use during class
 
-I expect you to make the best use of class time, so I trust that you will use your device primarily for taking notes and keeping up with code exercises. This is a psychology class, so we all know that it's not really possible to divide your attention between class activities and personal activities during class 😛 Further, please respect your peers' attention and be mindful of what you're doing on your personal screen that might distract those around you.
+I expect you to make the best use of class time, so I trust that you will use your device primarily for taking notes and keeping up with code exercises. This is a psychology class, so we all know that it's not really possible to divide your attention between class activities and personal activities during class 😛 Further, please respect your peers' attention and be mindful of how the contents of your personal screen might distract those around you.
 
-(My expectations for your participation during class are described in more detail on the **Expectations** page!)
+(My expectations for your participation during class are described in more detail on the [**Expectations**](../expectations) page!)
 
 ## Home internet
 

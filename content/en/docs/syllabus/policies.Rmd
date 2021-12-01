@@ -17,7 +17,9 @@ knitr::opts_chunk$set(echo = FALSE)
 My aim is for all of us to foster a learning environment that both supports a diversity of backgrounds and experiences and encourages you to expand your understanding. Please contact me with any concerns or suggestions you may have to better address your learning needs and to improve the effectiveness of this course.
 
 ```{r}
-blogdown::shortcode_html(.name = "alert", .content = "Form statement re campus disability accommodations office")
+blogdown::shortcode_html(.name = "alert",
+                         icon = "🛠️",
+                         .content = "Form statement re campus disability accommodations office")
 ```
 
 ## Health & well-being
@@ -29,11 +31,15 @@ We are in this together. Please prioritize your mental health and well-being, re
 There are many resources available to you both within our classroom community and for the whole university:
 
 ```{r}
-blogdown::shortcode_html(.name = "alert", .content = "Form statement from university re: campus physical and mental health services")
+blogdown::shortcode_html(.name = "alert", 
+                         icon = "🛠️",
+                         .content = "Form statement from university re: campus physical and mental health services")
 ```
 
 ## Ensuring academic integrity
 
 ```{r}
-blogdown::shortcode_html(.name = "alert", .content = "Form statement from university re: academic integrity")
+blogdown::shortcode_html(.name = "alert",
+                         icon = "🛠️",
+                         .content = "Form statement from university re: academic integrity")
 ```

@@ -12,7 +12,7 @@ toc: true
 
 My aim is for all of us to foster a learning environment that both supports a diversity of backgrounds and experiences and encourages you to expand your understanding. Please contact me with any concerns or suggestions you may have to better address your learning needs and to improve the effectiveness of this course.
 
-{{< alert >}}
+{{< alert icon="🛠️" >}}
 Form statement re campus disability accommodations office
 {{< /alert >}}
 
@@ -24,12 +24,12 @@ We are in this together. Please prioritize your mental health and well-being, re
 
 There are many resources available to you both within our classroom community and for the whole university:
 
-{{< alert >}}
+{{< alert icon="🛠️" >}}
 Form statement from university re: campus physical and mental health services
 {{< /alert >}}
 
 ## Ensuring academic integrity
 
-{{< alert >}}
+{{< alert icon="🛠️" >}}
 Form statement from university re: academic integrity
 {{< /alert >}}

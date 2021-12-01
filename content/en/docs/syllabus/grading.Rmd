@@ -16,19 +16,23 @@ knitr::opts_chunk$set(echo = TRUE)
 
 This course will use specifications, or "specs", grading. Instead of receiving a numerical grade, problem sets will be graded **complete/incomplete.** The instructions and rubric for each problem set will clearly describe the specifications, or completion requirements, for that assignment. Your submission must satisfy all of the specs on the rubric for a problem set to be marked "complete". While assignment specifications may feel intense, they are designed so you can hit the "complete" mark by investing earnest effort. You don’t have to be an expert as soon as a class is over! You do have to make a good-faith effort to demonstrate your engagement with the problem set. I intend for specs grading to encourage rigorous work (B-quality or better) while reducing stress about points on individual problems.
 
-On-time submission will be included as a credit spec; problem sets must be submitted on time to be eligible for a "complete" grade. Late submissions will not be accepted, but deadline extensions are available using tokens (see below).
+On-time submission will be included as a credit spec; problem sets must be submitted on time to be eligible for a "complete" grade. Problem set deadlines are designed to help us maintain a sustainable pace of work (you for completing assignments, me for grading and preparing feedback) as we progress through the semester. Thus, late submissions will not be accepted, but deadline extensions are available using tokens (see below).
 
 Because of their scope, the exams will be graded according to a spec rubric with multiple levels, not as complete vs. incomplete. 
 
 ## Revisions
 
-Should you receive an "incomplete" grade on a problem set, you will receive feedback detailing revisions you can make to bring your submission to the "complete" mark. You may submit revisions promptly after receiving feedback to earn full credit on an assignment, contingent on addressing all of the points in the feedback you received. Full-credit revision deadlines will be announced for each assignment along with on-time submission deadlines. Revisions will not be accepted for assignments without initial submissions.
+Should you receive an "incomplete" grade on a problem set, you will receive feedback detailing revisions you can make to bring your submission to the "complete" mark. You may submit revisions promptly after receiving feedback to earn _full credit_ on an assignment, contingent on addressing all of the points in the feedback you received. Full-credit revision deadlines will be announced for each assignment along with on-time submission deadlines. Revisions will not be accepted for assignments without initial submissions.
 
 ## Tokens
 
-Student schedules are incredibly busy, and sometimes you may need some flexibility with deadlines. This class will use a token system, so you will be able to choose when to take that extra leeway. Every student will receive _four_ tokens at the beginning of the semester. Over the course of the semester, you may spend one token on any problem set for a 48-hour deadline extension (for on-time submissions or for revisions). You may spend two tokens on a single 48-hour deadline extension for either the midterm or the final exam. You may also choose to spend two tokens on a single problem set for a free drop, where that submission will be marked "complete" even if you are unable to submit anything. (You may not spend any tokens to drop either of the exams--you must complete those!) 
+Student schedules are incredibly busy, and sometimes you may need some flexibility with deadlines. This class will use a token system, so you will be able to choose when to take that extra leeway. Every student will receive _four_ tokens at the beginning of the semester. 
 
-Tokens may be claimed on Canvas anytime before the deadline of the assignment you wish to spend them on.
+Over the course of the semester, you may spend one token on any problem set for a 48-hour deadline extension (for on-time submissions or for revisions). You may spend two tokens on a single 48-hour deadline extension for either the midterm or the final exam. (You may not spend double tokens for a longer extension on any one assignment. I need those assignment deadlines to help me return feedback to you promptly!)
+
+You may also choose to spend two tokens on a single problem set for a free drop, where that submission will be marked "complete" even if you are unable to submit anything. (You may not spend any tokens to drop either of the exams--you must complete those!) 
+
+Tokens may be claimed on Canvas _anytime before the original deadline_ of the assignment you wish to spend them on.
 
 ## Overall grade
 
