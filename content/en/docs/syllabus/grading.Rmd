@@ -4,7 +4,7 @@ output: blogdown::html_page
 menu:
   docs:
     parent: "syllabus"
-weight: 120
+weight: 130
 toc: true
 ---
 
@@ -12,13 +12,13 @@ toc: true
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-## Specifications grading system
+## Assignment grading structure
 
-This course will use specifications, or "specs", grading. Instead of receiving a numerical grade, problem sets will be graded **complete/incomplete.** The instructions and rubric for each problem set will clearly describe the specifications, or completion requirements, for that assignment. Your submission must satisfy all of the specs on the rubric for a problem set to be marked "complete". While assignment specifications may feel intense, they are designed so you can hit the "complete" mark by investing earnest effort. You don’t have to be an expert as soon as a class is over! You do have to make a good-faith effort to demonstrate your engagement with the problem set. I intend for specs grading to encourage rigorous work (B-quality or better) while reducing stress about points on individual problems.
+This course will use specifications, or "specs", grading. Instead of receiving a numerical grade, problem sets will be graded **complete/incomplete.** The instructions and rubric for each problem set will clearly describe the completion requirements for that assignment. Your submission must satisfy _all_ of the requirements on the rubric for a problem set to be marked "complete". This doesn't mean you have to get everything right on the first try every time! The rubrics will have some room for flexibility, and you will be able to submit revisions for full credit (see below).
 
-On-time submission will be included as a credit spec; problem sets must be submitted on time to be eligible for a "complete" grade. Problem set deadlines are designed to help us maintain a sustainable pace of work (you for completing assignments, me for grading and preparing feedback) as we progress through the semester. Thus, late submissions will not be accepted, but deadline extensions are available using tokens (see below).
+Problem sets must be submitted on time to be eligible for a "complete" grade. Problem set deadlines are designed to help us maintain a sustainable pace of work (you for completing assignments, me for grading and preparing feedback) as we progress through the semester. Thus, late submissions will not be accepted, but deadline extensions are available using tokens (see below).
 
-Because of their scope, the exams will be graded according to a spec rubric with multiple levels, not as complete vs. incomplete. 
+Because of their scope, the exams will be graded according to a rubric with multiple levels, not as complete vs. incomplete. 
 
 ## Revisions
 

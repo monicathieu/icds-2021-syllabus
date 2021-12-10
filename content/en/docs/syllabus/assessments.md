@@ -4,7 +4,7 @@ output: blogdown::html_page
 menu:
   docs:
     parent: "syllabus"
-weight: 110
+weight: 120
 toc: true
 ---
 
@@ -14,8 +14,14 @@ Your learning in this course will be assessed through **weekly problem sets, a m
 
 ## Problem sets
 
-The problem sets give you a place to practice the skills introduced each week, and help me (and you!) keep regular tabs on your progress, making adjustments where necessary to optimize learning. Each week’s problem set will consist of a combination of code exercises and short-answer questions, depending on what best fits the week’s learning objectives. Each problem set will be released after Monday’s class, and due by the beginning of next Monday’s class.
+The problem sets give you a place to practice the skills introduced each week, and help me (and you!) keep regular tabs on your progress, making adjustments where necessary to optimize learning. Each week’s problem set will consist of a combination of code exercises and short-answer questions, depending on what best fits the week’s learning objectives. 
+
+Some problem sets will be released as learnr tutorials where you will write and edit snippets of R code in a pre-structured exercise. Other problem sets will be released as R Markdown documents, where you will write more complex chunks of R code along with paragraph-style short answers.
+
+Each problem set will be released after Monday’s class, and due by the beginning of next Monday’s class.
 
 ## Exams
 
-In the real world, you will often have to apply multiple skills simultaneously in order to be able to solve a behavioral science programming problem. Accordingly, the midterm and final exams are intended to assess your learning in a larger-scale way that better represents how you might apply skills from the course outside of the classroom. On the exams, you will synthesize skills you’ve been practicing on your problem sets, and apply them in new ways you may not have tried before. Both exams will be open-book, take-home exams that will be open for one week each.
+In the real world, you will often have to apply multiple skills simultaneously in order to be able to solve a behavioral science programming problem. Accordingly, the midterm and final exams are intended to assess your learning in a larger-scale way that better represents how you might apply skills from the course outside of the classroom. On the exams, you will synthesize skills you’ve been practicing on your problem sets, and apply them in new ways you may not have tried before.
+
+Both exams will be open-book, take-home R Markdown exams that will be open for one week each.

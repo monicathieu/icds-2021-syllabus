@@ -4,7 +4,7 @@ output: blogdown::html_page
 menu:
   docs:
     parent: "syllabus"
-weight: 130
+weight: 140
 toc: true
 ---
 
@@ -42,7 +42,7 @@ If you live on or near campus, you can use one of the library's computers to com
 
 I expect you to make the best use of class time, so I trust that you will use your device primarily for taking notes and keeping up with code exercises. This is a psychology class, so we all know that it's not really possible to divide your attention between class activities and personal activities during class 😛 Further, please respect your peers' attention and be mindful of how the contents of your personal screen might distract those around you.
 
-(My expectations for your participation during class are described in more detail on the [**Expectations**](../expectations) page!)
+(My expectations for your participation during class are described in more detail on the [**Participation & communication**](../participation-communication) page!)
 
 ## Home internet
 
